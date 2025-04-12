@@ -31,11 +31,11 @@ Just open the `To_DO_List_Prioritizer.html` file in your browser and start prior
 
 **Input:**
 
-Attend physics lecture at 10am
-Take a 30-minute walk
-Review lecture slides from yesterday
-Backup important documents
-Submit weekly discussion post
+Attend physics lecture at 10am \n
+Take a 30-minute walk \n
+Review lecture slides from yesterday \n
+Backup important documents \n
+Submit weekly discussion post \n
 
 **Output:**
 
